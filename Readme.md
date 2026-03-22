@@ -1,13 +1,14 @@
 <h1 align="center">⚙️ Nath</h1>
+
 <p align="center">
-  <img src="https://media1.tenor.com/m/0NrcRYJ5XmcAAAAC/ai-grok.gif" width="100" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="80"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="80"/>
+  <img src="https://media.tenor.com/Lp7x0c9s2r8AAAAi/hacker.gif" width="80"/>
 </p>
 
 <p align="center">
   <code>core.system.out</code>
 </p>
-
-
 
 <p align="center">
   <i>building quietly. breaking loudly.</i>
@@ -15,53 +16,85 @@
 
 ---
 
-## 👨‍💻 // about
+## 🧬 Identity Module
 
-- 🎓 CSE student (Ctrl+C knowledge, Ctrl+V life)  
-- 💻 builds stuff no one asked for  
-- 🤖 vibe coding with AI (we both guessing at this point)  
-- 🧠 overthinks simple things, underthinks complex ones  
-- 🔍 curious about everything except exam syllabus  
-- 🛠️ break → fix → repeat  
-- ⚡ code works… AI knows why  
-- 🚀 living in "try and see" mode  
-- 🔥 100% curiosity, 100% kazhapp  
+```diff
++ role        : CSE student
++ mode        : experimental
++ mindset     : out-of-the-box
++ curiosity   : infinite
++ stability   : questionable
+```
 
 ---
 
-## 🧰 // stack
+## 🤖 Behavior Matrix
+
+```yaml
+- builds: things no one asked for
+- coding: vibe coding with AI
+- thinking: overthinking simple things
+- ignoring: exam syllabus
+- workflow: break -> fix -> repeat
+- status: code works (reason unknown)
+- energy: 100% curiosity, 100% kazhapp
+```
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" />
-
-<!-- Cloud -->
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase" />
-
-<!-- Tools -->
-<br/>
-<img src="https://skillicons.dev/icons?i=anaconda,bootstrap,flask,nginx" />
-
-<!-- Databases -->
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-
-<!-- Others -->
-<br/>
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" /><br/> <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase" /><br/> <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,flask,nginx" /><br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /><br/> <img src="https://skillicons.dev/icons?i=github" />
 
 </p>
 
 ---
 
-## 🧠 // runtime
+## ⚡ Runtime Engine
 
 ```bash
-> initializing nath-core...
+> booting nath-core...
 
-status: running
-mode: experimental
-errors: expected
-fixes: in progress
+[██████████] system loaded
+> initializing modules...
+
+AI.assist()        : active
+debug.mode()       : always_on
+sleep()            : not_found
+motivation()       : unstable
+
+> system running...
+```
+
+---
+
+## 😂 Developer Reality
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
+  <img src="https://media.tenor.com/QM5Zr4h6a4sAAAAC/debugging.gif" width="250"/>
+</p>
+
+---
+
+## 🤯 Debug Mode
+
+<p align="center">
+  <img src="https://media.tenor.com/fYg91qYp0yMAAAAC/bug-code.gif" width="300"/>
+</p>
+
+---
+
+## 🚀 Core Principle
+
+```txt
+build > break > learn > repeat
+```
+
+---
+
+<p align="center">
+  ⚡ nath-core • system active
+</p>
