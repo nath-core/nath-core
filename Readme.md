@@ -25,23 +25,28 @@
 
 ## 🧰 // stack
 
-**languages**  
-`C` `Java` `HTML5` `JavaScript` `LaTeX` `Python`
+<p align="center">
 
-**cloud**  
-`Azure` `AWS` `Cloudflare` `Firebase` `Render` `Netlify`
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" />
 
-**tools**  
-`Anaconda` `Bootstrap` `Flask` `Nginx`
+<!-- Cloud -->
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase" />
 
-**databases**  
-`DynamoDB` `Firebase` `Cassandra` `SQLite` `MongoDB` `MySQL`
+<!-- Tools -->
+<br/>
+<img src="https://skillicons.dev/icons?i=anaconda,bootstrap,flask,nginx" />
 
-**creative**  
-`Adobe` `After Effects` `Premiere Pro` `Canva` `Affinity Photo`
+<!-- Databases -->
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-**ai/ml**  
-`PyTorch`
+<!-- Others -->
+<br/>
+<img src="https://skillicons.dev/icons?i=github" />
+
+</p>
 
 ---
 
