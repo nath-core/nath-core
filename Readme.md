@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="80"/>
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="80"/>
+  <img src="https://media1.tenor.com/m/rnvpoC636fcAAAAC/typing-laptop.gif" width="100" height=80/>
   <img src="https://media.tenor.com/Lp7x0c9s2r8AAAAi/hacker.gif" width="80"/>
 </p>
 
