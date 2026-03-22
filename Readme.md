@@ -44,23 +44,38 @@
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
 
-<!-- Top (Languages - widest) -->
+<!-- Languages -->
 
-<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" /><br/>
+<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" />
+<br/><br/>
 
-<!-- Middle -->
+<!-- Cloud -->
 
-<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase,bootstrap,flask" /><br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase" />
+<br/><br/>
 
-<!-- Bottom -->
+<!-- Tools -->
 
-<img src="https://skillicons.dev/icons?i=nginx,mongodb,mysql,sqlite,github" />
+<img src="https://skillicons.dev/icons?i=anaconda,bootstrap,flask,nginx" />
+<br/><br/>
+
+<!-- Databases -->
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<br/><br/>
+
+<!-- Others -->
+
+<img src="https://skillicons.dev/icons?i=github" />
 
 </p>
 
 ---
+
 
 ## ⚡ Runtime Engine
 
