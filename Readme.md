@@ -1,6 +1,14 @@
-<h1 align="center">⚙️ nath-core</h1>
+<h1 align="center">⚙️ Nath</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" />
+</p>
+
 <p align="center">
   <code>core.system.out</code>
+</p>
+
+<p align="center">
+  <i>building quietly. breaking loudly.</i>
 </p>
 
 <p align="center">
