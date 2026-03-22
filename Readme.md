@@ -46,7 +46,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" /><br/> <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase" /><br/> <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,flask,nginx" /><br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /><br/> <img src="https://skillicons.dev/icons?i=github" />
+<!-- Top (Languages - widest) -->
+
+<img src="https://skillicons.dev/icons?i=c,java,html,js,latex,python" /><br/>
+
+<!-- Middle -->
+
+<img src="https://skillicons.dev/icons?i=azure,aws,cloudflare,firebase,bootstrap,flask" /><br/>
+
+<!-- Bottom -->
+
+<img src="https://skillicons.dev/icons?i=nginx,mongodb,mysql,sqlite,github" />
 
 </p>
 
@@ -70,19 +80,30 @@ motivation()       : unstable
 
 ---
 
-## 😂 Developer Reality
+## 🧠 Debug Logs
+
+```diff
+- expected output
++ unexpected result
+
+- small fix
++ broke everything
+
+- one bug fixed
++ three new bugs unlocked
+```
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
-  <img src="https://media.tenor.com/QM5Zr4h6a4sAAAAC/debugging.gif" width="250"/>
+  <img src="https://media.tenor.com/fYg91qYp0yMAAAAC/bug-code.gif" width="260"/>
+  <img src="https://media.tenor.com/QM5Zr4h6a4sAAAAC/debugging.gif" width="260"/>
 </p>
 
 ---
 
-## 🤯 Debug Mode
+## 🤯 Dev Mood
 
 <p align="center">
-  <img src="https://media.tenor.com/fYg91qYp0yMAAAAC/bug-code.gif" width="300"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
 </p>
 
 ---
