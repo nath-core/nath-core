@@ -118,7 +118,7 @@ motivation()       : unstable
 ## 🤯 Dev Mood
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
+  <img src="https://media1.tenor.com/m/W9_8dfFmyr0AAAAd/pixel-game.gif" width="300"/>
 </p>
 
 ---
