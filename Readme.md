@@ -1,15 +1,13 @@
 <h1 align="center">⚙️ Nath</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" />
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media1.tenor.com/m/0NrcRYJ5XmcAAAAC/ai-grok.gif)" width="100" />
 </p>
 
 <p align="center">
   <code>core.system.out</code>
 </p>
 
-<p align="center">
-  <i>building quietly. breaking loudly.</i>
-</p>
+
 
 <p align="center">
   <i>building quietly. breaking loudly.</i>
